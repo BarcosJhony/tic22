@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html><head>
+	<meta http-equiv=”Content-Type” content=”text/html; charset=UTF-8? />
+	<link rel="icon" type="image/jpg" href="Imagenes/logo.jpg" sizes="64x64">
+
+	<body background="imagenes/fondo1.jpg">
+
+	<title>Streamers España</title>
+
+
+		
+		
+	</head>
+	<body>
+		<h1><a href="https://libretilla.com/streamers-espanoles-mas-vistos-twitch/" target="_blank"><font color="white">Streamers más populares de España</font></a></h1>
+		<hr>
+		<h2><p><a href="paginas/auronplay.html"><font color="white">Auronplay</font></a></p></h2>
+		<img src="imagenes/auron2.jpg" width="420" alt="Imagen Auronplay">
+		<h2><p><a href="paginas/ibai.html"><font color="white">Ibai Llanos</font></a></p></h2>
+		<img src="imagenes/ibai1.jpg" width="420" alt="Imagen Ibai Llanos">
+	
+
+</body></html>
